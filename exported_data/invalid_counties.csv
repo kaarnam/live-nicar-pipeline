@@ -1,2 +1,2 @@
-,sno,complaint,complaint_description,complaint_type,recieved_date,incident_date,county,incident_closed_date,incident_status_desc,incident_zip
-462,463,171205,Concerned with general poor ambient air quality in Maryland and would like to know what actions are being taken to improve air quality.,['Air'],2023-06-28,2023-06-28,Statewide,2023-06-29,Incident Closed-Managed,
+,sno,complaint,complaint_description,complaint_type,recieved_date,incident_date,county,incident_status_desc,incident_zip,incident_closed_date
+475,476,171205,Concerned with general poor ambient air quality in Maryland and would like to know what actions are being taken to improve air quality.,['Air'],2023-06-28,2023-06-28,Statewide,Incident Closed-Managed,,2023-06-29
