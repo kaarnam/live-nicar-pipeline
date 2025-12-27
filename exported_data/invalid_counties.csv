@@ -1,6 +1,6 @@
 ,sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_date,incident_status_desc,incident_zip
-65,66,364818,['Air'],2025-10-07,2025-10-07,Statewide,2025-10-07,Incident Closed - No further action,
-258,259,354140,"['Air', 'Open Burning']",2025-05-14,2025-05-14,Statewide,2025-05-19,Incident Closed - No further action,
-519,520,313457,"['Air', 'Other', 'Smoke']",2024-12-06,2024-12-06,Statewide,2024-12-09,Incident Closed-Managed,
-561,562,303362,"['Air', 'Other']",2024-10-30,2024-10-30,Statewide,2024-11-08,Incident Closed-Managed,
-1334,1335,171205,['Air'],2023-06-28,2023-06-28,Statewide,2023-06-29,Incident Closed-Managed,
+163,164,364818,['Air'],2025-10-07,2025-10-07,Statewide,2025-10-07,Incident Closed - No further action,
+356,357,354140,"['Air', 'Open Burning']",2025-05-14,2025-05-14,Statewide,2025-05-19,Incident Closed - No further action,
+617,618,313457,"['Air', 'Other', 'Smoke']",2024-12-06,2024-12-06,Statewide,2024-12-09,Incident Closed-Managed,
+659,660,303362,"['Air', 'Other']",2024-10-30,2024-10-30,Statewide,2024-11-08,Incident Closed-Managed,
+1432,1433,171205,['Air'],2023-06-28,2023-06-28,Statewide,2023-06-29,Incident Closed-Managed,
